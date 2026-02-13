@@ -1,7 +1,9 @@
 # PowerBI_HR_Analytics_Dashboard
-📊 HR Analytics Dashboard – Power BI Project
+## 📊 HR Analytics Dashboard – Power BI Project
 📌 Project Overview
 
+Designed and developed an executive-level HR dashboard in Power BI to analyze a 16.1% attrition rate across 1,470 employees.
+The solution uncovers compensation-related turnover risk, role-based attrition concentration, and early-tenure employee exits — enabling proactive retention strategies through data visualization and KPI analysi
 This project presents an HR Analytics Dashboard built in Power BI to analyze employee attrition patterns and identify key workforce trends.
 
 The dashboard helps HR leaders and management teams understand:

@@ -18,7 +18,7 @@ Department-level risk areas
 
 Job satisfaction distribution
 
-<img src="SuperStoreD1.png" height="800" width="800">
+<img src="HR_Analytics_main.png" height="800" width="800">
 
 ## 🧮 Key Metrics (From Dashboard)
 Metric	Value

@@ -6,17 +6,17 @@ Designed and developed an executive-level HR dashboard in Power BI to analyze a 
 The solution uncovers compensation-related turnover risk, role-based attrition concentration, and early-tenure employee exits — enabling proactive retention strategies through data visualization and KPI analysi
 This project presents an HR Analytics Dashboard built in Power BI to analyze employee attrition patterns and identify key workforce trends.
 
-The dashboard helps HR leaders and management teams understand:
+#### The dashboard helps HR leaders and management teams understand:
 
-Overall workforce health
+* Overall workforce health
 
-Attrition drivers
+* Attrition drivers
 
-Salary-based turnover patterns
+* Salary-based turnover patterns
 
-Department-level risk areas
+* Department-level risk areas
 
-Job satisfaction distribution
+* Job satisfaction distribution
 
 <img src="HR_Analytics_main.png" height="800" width="800">
 

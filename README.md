@@ -18,7 +18,7 @@ Department-level risk areas
 
 Job satisfaction distribution
 
-🧮 Key Metrics (From Dashboard)
+## 🧮 Key Metrics (From Dashboard)
 Metric	Value
 Total Employees	1,470
 Total Attrition	237
@@ -29,7 +29,7 @@ Average Years at Company	7.0
 
 📌 Nearly 1 in 6 employees left the organization, indicating a moderate attrition risk.
 
-📊 Detailed Insights
+## 📊 Detailed Insights
 👥 Attrition by Gender
 
 Male: 128
@@ -38,7 +38,7 @@ Female: 72
 
 Attrition is higher among male employees.
 
-🎓 Attrition by Education
+## 🎓 Attrition by Education
 
 Life Sciences – 38%
 
@@ -52,7 +52,7 @@ Other – 5%
 
 📌 Employees from Life Sciences and Medical backgrounds show the highest exits.
 
-💰 Attrition by Salary Slab
+## 💰 Attrition by Salary Slab
 
 Up to 5K: 163 (Highest attrition)
 
@@ -64,7 +64,7 @@ Up to 5K: 163 (Highest attrition)
 
 📌 Majority of attrition occurs in the lowest salary band, indicating compensation sensitivity.
 
-👩‍💼 Attrition by Job Role
+## 👩‍💼 Attrition by Job Role
 
 Laboratory Technician – 62
 
@@ -78,7 +78,7 @@ Human Resources – 12
 
 📌 Technical and sales-related roles face the highest turnover.
 
-📆 Attrition by Age Group
+## 📆 Attrition by Age Group
 
 26–35: Highest attrition (largest segment)
 
@@ -92,7 +92,7 @@ Human Resources – 12
 
 📌 Early-to-mid career professionals are most likely to leave.
 
-📈 Attrition by Years at Company
+## 📈 Attrition by Years at Company
 
 Attrition peaks at:
 
@@ -104,7 +104,7 @@ Year 10
 
 📌 Early-stage attrition suggests onboarding/engagement challenges.
 
-😊 Job Satisfaction Analysis
+## 😊 Job Satisfaction Analysis
 
 Total attrition cases analyzed: 237
 
@@ -120,7 +120,7 @@ Rating 4: 52
 
 📌 Attrition is not limited to low satisfaction scores, indicating other influencing factors (salary, role, growth).
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 Power BI Desktop
 
@@ -130,7 +130,7 @@ DAX (KPI & Calculated Measures)
 
 Data Modeling (Star Schema Principles)
 
-🎯 Business Problem
+## 🎯 Business Problem
 
 High employee attrition impacts productivity, hiring costs, and organizational stability.
 
@@ -144,7 +144,7 @@ Support HR retention strategies
 
 Enable data-driven workforce planning
 
-💡 Business Recommendations
+## 💡 Business Recommendations
 
 Review compensation structure for employees earning below 5K
 
@@ -154,7 +154,7 @@ Improve engagement programs for employees in first 2 years
 
 Conduct targeted retention initiatives for the 26–35 age group
 
-🚀 Dashboard Features
+## 🚀 Dashboard Features
 
 Interactive department filters (HR, R&D, Sales)
 
@@ -166,7 +166,7 @@ Multi-dimensional attrition analysis
 
 Clean executive-level layout
 
-📂 How to Use
+## 📂 How to Use
 
 Download the .pbix file
 
